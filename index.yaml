@@ -6,16 +6,16 @@ entries:
     created: "2022-04-28T17:18:46.053781831+01:00"
     dependencies:
     - name: pages-api
-      repository: https://dgjere.github.io/
+      repository: http://localhost:8080
       version: 1.x.x
     - name: mysql
-      repository: https://dgjere.github.io/
+      repository: http://localhost:8080
       version: 1.x.x
     description: A Helm chart for Pages Application
     digest: 5b7dfacdcbaff66ee4d81cf6791f17086e890242455acf388b85d2000f6fbe4a
     name: pages
     type: application
     urls:
-    - pages-0.1.0.tgz
+    - https://dgjere.github.io/pages-0.1.0.tgz
     version: 0.1.0
 generated: "2022-04-28T17:18:46.052325817+01:00"
